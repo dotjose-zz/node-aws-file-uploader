@@ -5,8 +5,6 @@ This README would normally document whatever steps are necessary to get your app
 ### What is this repository for? ###
 
 * AWS File Server
-* v1
-* 
 
 ### How do I get set up? ###
 
